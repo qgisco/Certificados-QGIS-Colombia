@@ -1,0 +1,13 @@
+Cities data
+-----------
+
+Source: Instituto Geográfico "Agustín Codazzi", 2009. Cartografía Base Escala 1:100.000.
+URL: https://geoportal.igac.gov.co/contenido/datos-abiertos-cartografia-y-geografia
+
+These cities data has been modified in these ways:
+ + When needed, cities has been converted to multiparts.
+ + We have removed most of the columns and just left fid and NOMBRE_GEO.
+ + We have added a new column CODIGO_DANE.
+ 
+ 
+
