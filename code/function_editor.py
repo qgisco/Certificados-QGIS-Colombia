@@ -1,4 +1,4 @@
-from qgis.core import QgsProject, NULL
+from qgis.core import (QgsProject, NULL, qgsfunction)
 
 @qgsfunction(args='auto', group='Custom')
 def qr(evento, taller, cc, feature, parent):
