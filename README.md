@@ -11,7 +11,7 @@ Proyecto QGIS para generar automáticamente certificados de cursos de QGIS Colom
 
 ### ¿Cómo funciona?
 
-Más detalles de este proyecto en http://qgisusers.co/es/blog/certificados-qgis-colombia/
+Más detalles de este proyecto [aquí](https://web.archive.org/web/20230609010935/https://qgisusers.co/es/blog/certificados-qgis-colombia/).
 
 
 
