@@ -7,7 +7,7 @@ def qr(evento, taller, cc, feature, parent):
     base_dir = QgsProject.instance().fileInfo().path()
     qr_dir = os.path.join(base_dir, "qr")
     filename = "{}-{}-{}".format(evento, taller, cc.replace('.',).replace("'",))
-    url = "http://qgisusers.co/media/{}.pdf".format(filename)
+    url = "http://your-website.org/media/{}.pdf".format(filename)
     if not os.path.exists(qr_dir):
 	    os.makedirs(qr_dir)
 
